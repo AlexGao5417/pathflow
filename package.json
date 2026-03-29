@@ -1,0 +1,32 @@
+{
+  "name": "pathflow",
+  "version": "0.0.1",
+  "description": "Animated flow rendering for Deck.gl and standalone maps.",
+  "type": "module",
+  "scripts": {
+    "test:e2e": "node --test ./e2e/*.test.mjs"
+  },
+  "main": "./src/index.ts",
+  "module": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./advanced": "./src/advanced.ts",
+    "./demo": "./src/demo/index.ts"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "keywords": [
+    "deckgl",
+    "deck.gl",
+    "mapbox",
+    "geojson",
+    "traffic",
+    "flow",
+    "pathflow",
+    "animation",
+    "visualization"
+  ],
+  "license": "MIT"
+}
