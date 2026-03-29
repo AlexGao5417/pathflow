@@ -1,5 +1,5 @@
 {
-  "name": "@alexg/pathflow",
+  "name": "@alexgao5417/pathflow",
   "version": "0.0.2",
   "description": "Animated flow rendering for Deck.gl and standalone maps.",
   "type": "module",
