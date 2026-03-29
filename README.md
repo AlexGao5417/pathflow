@@ -2,6 +2,13 @@
 
 `pathflow` animates particles or small mesh entities along GeoJSON line data in Deck.gl and standalone maps.
 
+## demo
+1. standalone map
+![App screenshot](./public/app_screenshot/1.png)
+
+2. deck.gl base map
+![App screenshot](./public/app_screenshot/2.png)
+
 The package is organized around two primary entry points:
 
 1. `usePathflow(...)`
@@ -14,7 +21,7 @@ Advanced helpers are still available from `pathflow/advanced`, but most users sh
 ## Install
 
 ```bash
-npm install pathflow
+npm install @alexgao5417/pathflow
 ```
 
 ## Data Requirements

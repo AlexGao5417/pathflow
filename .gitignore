@@ -1,3 +1,4 @@
 src/demo
 e2e
 .npmrc
+.env
